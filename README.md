@@ -1,4 +1,4 @@
-# Building a Neural Network from Scratch (Using Just NumPy!)
+# Building a Neural Network from Scratch!
 
 ![math-numpy-python](https://github.com/user-attachments/assets/1ba4957d-1209-442f-8da9-1ff367cf10ca)
 
