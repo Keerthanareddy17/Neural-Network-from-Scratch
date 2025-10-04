@@ -144,3 +144,5 @@ Validation Accuracy: `~84.5%`
 - Achieved: ~84.5% accuracy on MNIST using just NumPy 
 
 *Built purely for learning.......because understanding what’s under the hood is always worth it :)*
+
+btw, if there's anything you want to point out or just talk, here's my **[Linkedin](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268)**
